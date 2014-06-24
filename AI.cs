@@ -390,7 +390,7 @@ public class AI : MonoBehaviour {
 		var detonation = Instantiate(DetonatorPrefab, gameObject.transform.position, Quaternion.identity);
 		var explosion = Instantiate(FirePrefab,
 		                            gameObject.transform.position,Quaternion.identity);
-		print("touched");
+		print("died");
 		Destroy(this.gameObject);
 		isDead = true;
 	}
