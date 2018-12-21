@@ -1,4 +1,6 @@
 # SqueezingTheorem
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+<br>
 A game that forces the player to squeeze the AI to win (otherwise AI squeezes the player)
 
 #### Play: https://cdn.rawgit.com/anilbey/SqueezingTheorem/08a6c9f7/WebGL/index.html
