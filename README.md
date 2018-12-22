@@ -7,7 +7,7 @@ Control using either the arrow keys or W,A,S,D keys.
 <br>
 It is free and open source. :clap: :tada:
 
-#### Play: https://cdn.rawgit.com/anilbey/SqueezingTheorem/08a6c9f7/WebGL/index.html
+#### Play: http://anilbey.github.io/SqueezingTheorem/WebGL/index.html
 #### Gameplay video: https://www.youtube.com/watch?v=5pMtWTPTurU&feature=youtu.be
 
 ### Screenshots 
